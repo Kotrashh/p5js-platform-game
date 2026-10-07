@@ -17,3 +17,5 @@ This is a 2D platformer project developed as part of the **BSc Computer Science*
 * **Language**: JavaScript
 * **Library**: p5.js
 * **Framework**: Functional and Object-Oriented Programming (OOP) principles.
+
+🚀 **[Live Demo / Oyunu Oyna](https://kotrashh.github.io/p5js-platform-game/)**
