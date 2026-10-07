@@ -2,6 +2,8 @@
 
 This is a 2D platformer project developed as part of the **BSc Computer Science** program at the **University of London**. The game focuses on implementing core game engine mechanics from scratch using the p5.js library.
 
+🚀 **[Live Demo](https://kotrashh.github.io/p5js-platform-game/)**
+
 ## Key Features
 * **Physics Engine**: Custom implementation of gravity and platform-based collision detection.
 * **Entity Management**: Utilizes object constructors for modular character and item management.
@@ -18,4 +20,4 @@ This is a 2D platformer project developed as part of the **BSc Computer Science*
 * **Library**: p5.js
 * **Framework**: Functional and Object-Oriented Programming (OOP) principles.
 
-🚀 **[Live Demo / Oyunu Oyna](https://kotrashh.github.io/p5js-platform-game/)**
+
